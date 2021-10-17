@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Car Wash",
+        "price": "180",
+        "description": "With a full detail, the paint on your vehicle gets the closest of attention. First, the exterior is pressure washed to remove dirt and then hand-dried. A clay bar may be used to remove the tough-to-eliminate dirt particles. Finally, a hand or machine polish gives the surface an even shine and removes fine scratches.",
+        "img": "./images/services/car-wash.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Engine Repair",
+        "price": "500",
+        "description": "Major automobile repair means repair involving removal of heads, pans, transmissions; repairing, replacing, or overhauling of engines, motor transmissions; repairing or replacing driving mechanisms, steering mechanisms, differential assemblies; and repairing or replacing any other major automotive part or parts.",
+        "img": "images/services/engine-repair.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Carburetor Check",
+        "price": "150",
+        "description": "As a standard measure, a carburetor with a CFM (cubic feet per minute) between 500 and 750 should perform well for all of your typical driving situations. Having good throttle response improves your car's performance and maximizes your engine's potential.",
+        "img": "images/services/carburetor-check.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Full Service",
+        "price": "700",
+        "description": "A full service usually includes everything apart for any parts specified as requiring replacement in your vehicles servicing schedule, such as fuel filters, spark plugs etc. These can be added as chargeable extras or, some garages refer to it as a major service and will charge accordingly.",
+        "img": "images/services/full-service.jpg"
+    },
+    {
+        "id": 5,
+        "name": "oil-change",
+        "price": "50",
+        "description": "But the fact is, due to different types of engines this rule is not ideal. There are many manufacturers that are assuring that the cars designed by them can run 7,000-10,000 mile intervals before an oil change is required",
+        "img": "images/services/oil-change.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Wheel Alignment",
+        "price": "250",
+        "description": "Alignment refers to an adjustment of a vehicle's suspension – the system that connects a vehicle to its wheels. It is not an adjustment of the tires or wheels themselves. The key to proper alignment is adjusting the angles of the tires which affects how they make contact with the road.",
+        "img": "images/services/wheel-align.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Engine Tune Up",
+        "price": "350",
+        "description": "An engine tune-up is the process of inspecting and replacing components of the engine that are essential to ignition and engine operation. A comprehensive tune-up can include: Replace spark plugs and wires/coil boots. Set ignition timing - if applicable.",
+        "img": "images/services/engine-tune.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Air Filter Change",
+        "price": "100",
+        "description": "Check your owner's manual; it should tell you when your air filter should be replaced. This is generally every 12,000 to 15,000 miles, depending on your vehicle. If you have driven more than that since the last time you replaced the air filter, it's probably time to get it changed.",
+        "img": "images/services/air-filter-change.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Brake Pad Change",
+        "price": "320",
+        "description": "The average brake pad replacement cost is $150 per axle, and can range from $100 per axle up to $300 per axle. There are a few other pieces of hardware that are found in the brake system which might need to be serviced as well, including calipers and rotors, but the most common service will be to replace brake pads.",
+        "img": "images/services/brakepad-change.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Battery Replace",
+        "price": "50",
+        "description": "You'll have no option but to call for assistance if your battery goes dead if you are on the road. But if you are at home and can get a lift to the auto parts store, you can replace a car battery yourself.",
+        "img": "images/services/battery-replace.jpg"
+    }
+]
